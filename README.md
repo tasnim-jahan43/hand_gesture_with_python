@@ -6,3 +6,9 @@ Hand landmark detection with MediaPipe
 Gesture-based actions: move, click, scroll, and navigate
 Real-time responsiveness and intuitive interface
 Technologies: Python, OpenCV, MediaPipe, PyAutoGUI
+
+Feature	Gesture
+Move Mouse	: 1 finger (index)
+Click	: 2 fingers (index + middle)
+Scroll	: 3 fingers
+Do Nothing :	4 fingers
