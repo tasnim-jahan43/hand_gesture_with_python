@@ -8,6 +8,7 @@ Real-time responsiveness and intuitive interface
 Technologies: Python, OpenCV, MediaPipe, PyAutoGUI
 
 Feature	Gesture
+
 Move Mouse	: 1 finger (index)
 
 Click	: 2 fingers (index + middle)
